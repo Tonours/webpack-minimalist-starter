@@ -18,7 +18,7 @@ const PATHS = {
 const common = {
   // Wepack entry point
   entry: {
-    app: path.join(__dirname, 'app', 'index.jsx'),
+    app: path.join(__dirname, 'app', 'index.js'),
     style: PATHS.style,
     vendor: Object.keys(pkg.dependencies)
   },
