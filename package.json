@@ -1,7 +1,7 @@
 {
-  "name": "starter",
+  "name": "react-webpack-minimalist-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimalist starter for quickly use React with webpack",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base app/",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anthony Guimard <bonjour@anthonyguimard.fr>",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
