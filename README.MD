@@ -9,5 +9,6 @@ Minimalist starter to run local server to work with React, Redux and css-module.
 * Install NVM [Installation guide for NVM](https://github.com/creationix/nvm#installation)
 * Go to directory and run `$ nvm use`
 * Run `$ yarn install` to install dependencies
-* Run local server with `$ npm run start`
-* Build app with `$ npm run build`
+* To know which commands are available launch `$ yarn run`
+* Run local server with `$ yarn run start`
+* Build app with `$ yarn run build`
